@@ -119,7 +119,7 @@
 
 ### ✍️ Latest Blog
 
-📚 [How I Built a MYOB to Xero Converter using Django](https://medium.com/@lobsangshakya5)
+📚 [From a Weak Student to a 9.0 CGPA Holder: My Journey of Transformation](https://medium.com/@lobsangshakya5)
 
 ---
 

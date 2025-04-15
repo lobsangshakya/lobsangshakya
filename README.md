@@ -112,8 +112,8 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🔄 **COA Converter** | Django + Excel + Pandas | Convert MYOB Chart of Accounts to Xero format |
-| 📊 **Salary Predictor** | Python + Scikit-Learn | ML project predicting software engineer salaries |
-| 🔐 **SecureLogin App** | Django + SQLite | User authentication with email verification |
+| 👟 **Nike Clone Website** | HTML + CSS + JavaScript | A fully responsive frontend clone of Nike’s landing page |
+| 🔐 **User Authentication for MMC Convert** | Django + SQLite | Built custom login/signup with validation and session management |
 
 ---
 

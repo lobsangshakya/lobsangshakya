@@ -127,10 +127,9 @@
 
 ### ✨ Fun Fact
 
-> “I turn ☕ into code, and problems into elegant solutions.”
+>  Building cool stuff while Googling “how to build cool stuff."
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<p align="center"><i>"Opportunities don't happen. You create them."</i><br>— <b>Chris Grosser</b></p>
+

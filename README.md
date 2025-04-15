@@ -1,74 +1,136 @@
-[![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)](https://lobsangtsetan.io)
-<h1 align="center">Hi 👋, I'm Lobsang Tsetan</h1>
-<h3 align="center">BTech CSE (Data Science) student | Passionate about real-world problem solving with tech 🧠</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78E69&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lobsang+Tsetan;B.Tech+in+CSE+(Data+Science);Web+Development+%7C+Python+%7C+Data+Analytics;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlsZ24xdGtzMDJ5bnU4ZXo5b29sYzQ5NDExbjg1cHdxMWF4ZDd4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lobsangshakya&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lobsangshakya&label=Profile%20views&color=0e75b6&style=flat" alt="lobsangshakya" /> </p>
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/lobsang-shakya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://medium.com/@lobsangshakya5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lobsangshakya5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/lobsangshakya5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" /></a>
+<!-- HERO IMAGE -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 👨‍💻 About Me
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-
-**Backend & Data:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+- 🎓 BTech CSE (Data Science) Student  
+- 🌱 Currently learning **Django, React, Machine Learning**  
+- 💡 Passionate about building real-world projects & solving problems  
+- ✍️ I write articles on [Medium](https://medium.com/@lobsangshakya5)  
+- 📫 How to reach me: **lobsangshakya5@gmail.com**
 
 ---
 
-### 📊 GitHub Stats:
+### 🌍 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya&show_icons=true&theme=radical" alt="Lobsang's GitHub stats" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lobsangshakya&theme=radical" width="47%"/>
+  <a href="https://www.linkedin.com/in/lobsang-shakya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@lobsangshakya5" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/lobsangshakya5" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/lobsangshakya5" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="mailto:lobsangshakya5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### ⚒️ Languages & Tools
+
+<h3 align="center">⚒️ Languages & Tools</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+</p>
+
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobsangshakya&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lobsangshakya&theme=react-dark" alt="Activity Graph">
+  <img src="https://github-profile-trophy.vercel.app/?username=lobsangshakya&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
-### 🚀 Projects:
+### 💼 Projects
 
-Here are some featured projects from my GitHub:
-- 🔁 **MYOB to Xero COA Converter** – Django web app to transform accounting files between platforms.
-- 📈 **Data Visualizer with Pandas** – Exploratory data analysis tool with charts.
-- 💻 **Portfolio Website** – Built with React, showcases my skills and blogs.
-
-> 📝 I also regularly write on [Medium](https://medium.com/@lobsangshakya5)
-
----
-
-### 📬 Reach me at:  
-**📧 Email:** lobsangshakya5@gmail.com  
-**🌐 Website:** [lobsangtsetan.io](https://lobsangtsetan.io)
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🔄 **COA Converter** | Django + Excel + Pandas | Convert MYOB Chart of Accounts to Xero format |
+| 📊 **Salary Predictor** | Python + Scikit-Learn | ML project predicting software engineer salaries |
+| 🔐 **SecureLogin App** | Django + SQLite | User authentication with email verification |
 
 ---
 
-_“First solve the problem, then write the code.” – John Johnson_
+### ✍️ Latest Blog
+
+📚 [How I Built a MYOB to Xero Converter using Django](https://medium.com/@lobsangshakya5)
 
 ---
+
+### ✨ Fun Fact
+
+> “I turn ☕ into code, and problems into elegant solutions.”
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>

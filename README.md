@@ -108,13 +108,12 @@
 
 ### 🏅 Achievements
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/HackerRank-Python%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-SQL%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Pandas%20(Certified)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic%20Certified)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
+
 
 ---
 

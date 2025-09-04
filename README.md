@@ -96,8 +96,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobsangshakya&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobsangshakya&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,cpp&langs_count=6&custom_title=Most%20Used%20Languages&langs=typescript,python,javascript,html,css,sql" height="200"/>
 </div>
+
 
 ---
 

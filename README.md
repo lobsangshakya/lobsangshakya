@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78E69&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lobsang+Tsetan;B.Tech+in+CSE+(Data+Science);Web+Development+%7C+Python+%7C+Data+Analytics;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78E69&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lobsang+Tsetan;B.Tech+in+CSE+(Data+Science);Web+Development+%7C+Python+%7C+TypeScript;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -52,6 +52,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
@@ -60,9 +66,6 @@
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -108,12 +111,10 @@
 
 ### 🏅 Achievements
 
-
   <img src="https://img.shields.io/badge/HackerRank-Python%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-SQL%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic%20Certified)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
 
 ---
 

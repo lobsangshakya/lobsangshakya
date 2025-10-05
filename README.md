@@ -38,7 +38,7 @@
 ### 🛠️ My Digital Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,django,html,css,mysql,git,github,vscode&perline=6&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,django,html,css,mysql,git,github,vscode,scikitlearn,pandas&perline=6&theme=light" />
 </p>
 
 ---
@@ -47,25 +47,25 @@
 <table>
   <tr>
     <td align="center">
-      <a href="URL_TO_YOUR_CERTIFICATE_1">
-        <img src="URL_TO_YOUR_BADGE_IMAGE_1" width="120px" alt="HackerRank Python Basic"/>
+      <a href="https://www.hackerrank.com/certificates/YOUR_CERT_ID">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="120px" alt="HackerRank Python Basic"/>
       </a>
       <br/>
       <sub><b>HackerRank Python (Basic)</b></sub>
     </td>
     <td align="center">
-      <a href="URL_TO_YOUR_CERTIFICATE_2">
-        <img src="URL_TO_YOUR_BADGE_IMAGE_2" width="120px" alt="Certificate 2 Name"/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/YOUR_CERT_ID">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Google-logo.svg/1024px-Google-logo.svg.png" width="120px" alt="Google Data Analytics Certificate"/>
       </a>
       <br/>
-      <sub><b>Certificate 2 Name</b></sub>
+      <sub><b>Google Data Analytics</b></sub>
     </td>
      <td align="center">
-      <a href="URL_TO_YOUR_CERTIFICATE_3">
-        <img src="URL_TO_YOUR_BADGE_IMAGE_3" width="120px" alt="Certificate 3 Name"/>
+      <a href="https://www.freecodecamp.org/certification/YOUR_USERNAME/javascript-algorithms-and-data-structures">
+        <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" width="120px" alt="freeCodeCamp Certificate"/>
       </a>
       <br/>
-      <sub><b>Certificate 3 Name</b></sub>
+      <sub><b>freeCodeCamp JS Algorithms</b></sub>
     </td>
   </tr>
 </table>
@@ -104,27 +104,30 @@
   </tr>
   <tr>
     <td width="33.3%" valign="top">
-      <h3 align="center">Project Title 4</h3>
-      <p align="center">A short, engaging description of your project and what it does.</p>
+      <h3 align="center">Full-Stack Blog Platform</h3>
+      <p align="center">A complete blogging application with user authentication, CRUD functionality, and a REST API.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 1"/>
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 2"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Django_Rest-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       </p>
     </td>
     <td width="33.3%" valign="top">
-      <h3 align="center">Project Title 5</h3>
-      <p align="center">A short, engaging description of your project and what it does.</p>
+      <h3 align="center">Sentiment Analysis API</h3>
+      <p align="center">A machine learning API that analyzes input text and returns a sentiment score (positive, negative, neutral).</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 1"/>
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 2"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
       </p>
     </td>
     <td width="33.3%" valign="top">
-      <h3 align="center">Project Title 6</h3>
-      <p align="center">A short, engaging description of your project and what it does.</p>
+      <h3 align="center">Kanban Task Manager</h3>
+      <p align="center">A drag-and-drop task management board inspired by Trello, built with modern frontend tools.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 1"/>
-        <img src="https://img.shields.io/badge/Technology-HEXCODE?style=for-the-badge&logo=NAME" alt="Tech 2"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
       </p>
     </td>
   </tr>

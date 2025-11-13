@@ -18,12 +18,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (Data Science) Student  
-- 🌱 Currently learning **Django, React, and Machine Learning**  
 - 💡 Passionate about building real-world projects & solving problems  
 - ✍️ I write articles on [Medium](https://medium.com/@lobsangshakya5)  
-- 💬 Ask me about **Web Development, Python, or AI projects**  
-- 🚀 Currently working on: **Full-stack projects integrating AI**  
-- 🎯 Goal for 2025: **Contribute to open-source & publish a research project**  
 - 📫 Reach me at: **lobsangshakya5@gmail.com**
 
 ---

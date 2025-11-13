@@ -110,7 +110,3 @@
 <p align="center"><i>"Opportunities don't happen. You create them."</i><br>— <b>Chris Grosser</b></p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!" alt="Thanks for visiting!" />
-</p>

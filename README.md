@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78E69&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lobsang+Tsetan;B.Tech+in+CSE+(Data+Science);Web+Development+%7C+Python+%7C+TypeScript;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78E69&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lobsang+Tsetan;B.Tech+in+CSE+(Data+Science);Web+Development+%7C+Python+%7C+TypeScript;Machine+Learning+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -17,10 +17,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BTech CSE (Data Science) Student
-- 🌱 Currently learning **Django, React, Machine Learning**
-- 💡 Passionate about building real-world projects & solving problems
-- ✍️ I write articles on [Medium](https://medium.com/@lobsangshakya5)
+- 🎓 B.Tech CSE (Data Science) Student  
+- 🌱 Currently learning **Django, React, and Machine Learning**  
+- 💡 Passionate about building real-world projects & solving problems  
+- ✍️ I write articles on [Medium](https://medium.com/@lobsangshakya5)  
+- 💬 Ask me about **Web Development, Python, or AI projects**  
+- 🚀 Currently working on: **Full-stack projects integrating AI**  
+- 🎯 Goal for 2025: **Contribute to open-source & publish a research project**  
 - 📫 Reach me at: **lobsangshakya5@gmail.com**
 
 ---
@@ -48,6 +51,7 @@
 ---
 
 ### ⚒️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,django,html,css,javascript,mysql,git,vscode,github&theme=light" />
 </p>
@@ -56,23 +60,22 @@
 
 ### 📈 GitHub & LeetCode Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=lobsangshakya&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobsangshakya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=c%2B%2B,c" height="180" />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=lobsangshakya&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak Stats"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobsangshakya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=c%2B%2B,c" height="200" alt="Top Languages"/>
-
-  <!-- GitHub Activity Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobsangshakya&theme=tokyo-night&hide_border=true&area=true" height="250" alt="GitHub Activity Graph"/>
+</p>
 
-  <!-- LeetCode Stats Card -->
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/lobsangshakya5?theme=dark&font=Baloo%20Chettan%202&ext=heatmap" height="250" alt="LeetCode Stats"/>
-
-</div>
+</p>
 
 ---
 
@@ -86,33 +89,32 @@
 
 ### 🏅 Achievements
 
-<img src="https://img.shields.io/badge/HackerRank-Python%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-SQL%20(5%20Stars)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-Python%20(Basic%20Certified)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
----
-
-### 💼 Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔄 **COA Converter** | Django + Excel + Pandas | Convert MYOB Chart of Accounts to Xero format |
-| 👟 **Nike Clone Website** | HTML + CSS + JavaScript | A fully responsive frontend clone of Nike’s landing page |
-| 🔐 **User Authentication for MMC Convert** | Django + SQLite | Built custom login/signup with validation and session management |
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(5★)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(5★)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic%20Certified)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</p>
 
 ---
 
 ### ✍️ Latest Blog
 
-📚 [From a Weak Student to a 9.0 CGPA Holder: My Journey of Transformation](https://medium.com/@lobsangshakya5)
+📚 [What My Microsoft Rejection Taught Me](https://medium.com/@lobsangshakya5/what-my-microsoft-rejection-taught-me-7bc79708c089)  
+> A reflection on how rejection shaped my growth mindset and improved my technical journey.
 
 ---
 
 ### ✨ Fun Fact
 
-> Building cool stuff while Googling “how to build cool stuff."
+> Building cool stuff while Googling “how to build cool stuff.”
 
 ---
 
 <p align="center"><i>"Opportunities don't happen. You create them."</i><br>— <b>Chris Grosser</b></p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!" alt="Thanks for visiting!" />
+</p>

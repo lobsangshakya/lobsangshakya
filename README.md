@@ -7,18 +7,18 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE (Data Science) Student**  
-- 💻 Passionate about **Web Development, Python, and Machine Learning**  
-- 🚀 I love building **real-world projects** & solving problems  
-- ✍️ I share my thoughts on **Medium**  
-- 📫 Reach me at: **lobsangshakya5@gmail.com**
+- 🎓 **B.Tech CSE (Data Science) Student**
+- 💻 Passionate about **Web Development, Python, Machine Learning**
+- 🚀 Love building **real-world projects**
+- ✍️ I share my thoughts on **Medium**
+- 📫 Email: **lobsangshakya5@gmail.com**
 
 ---
 
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,django,html,css,javascript,mysql,git,vscode,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,django,html,css,javascript,mysql,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -44,10 +44,10 @@
 
 ## ✨ Highlights
 
-- 🧠 Strong in **Python, SQL, HTML/CSS/JS, TypeScript**
-- 🛠️ Experience with **Django, React, Machine Learning**
-- 📊 Currently exploring **Data Science & System Design**
-- 🌱 Always learning & building cool projects
+- 🧠 Skilled in **Python, SQL, Web Development**
+- 🛠️ Building projects using **React, Django, Machine Learning**
+- 🌱 Always learning and improving
+- 🚀 Aiming to build impactful tech solutions
 
 ---
 

@@ -18,7 +18,7 @@
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,django,kafka,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,git&theme=light" />
 </p>
 
 ---

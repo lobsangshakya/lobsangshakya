@@ -18,11 +18,7 @@
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,express,django,kafka,mysql,git,github,vscode,postman,figma&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tableau&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,django,kafka,mysql,git,figma&theme=light" />
 </p>
 
 ---

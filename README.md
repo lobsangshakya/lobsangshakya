@@ -8,9 +8,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE (Data Science) Student**
-- 💻 Passionate about **Web Development, Python, Machine Learning**
-- 🚀 Love building **real-world projects**
-- ✍️ I share my thoughts on **Medium**
+- 💻 Passionate about **Web Development, Machine Learning, and Backend Systems**
+- 🚀 Love building **real-world projects** with modern technologies
+- 🧠 Skilled in **Python, JavaScript, ML, and Full-Stack Development**
 - 📫 Email: **lobsangshakya5@gmail.com**
 
 ---
@@ -18,7 +18,11 @@
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,django,html,css,javascript,mysql,git,github,vscode,kafka&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,express,django,kafka,mysql,git,github,vscode,postman,figma&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tableau&theme=light" />
 </p>
 
 ---
@@ -44,10 +48,11 @@
 
 ## ✨ Highlights
 
-- 🧠 Skilled in **Python, SQL, Web Development**
-- 🛠️ Building projects using **React, Django, Machine Learning**
-- 🌱 Always learning and improving
-- 🚀 Aiming to build impactful tech solutions
+- 🧠 Skilled in **Machine Learning, Full-Stack Development, and Data Science**
+- 🔧 Experience with **React, Django, Node.js, Express, Kafka**
+- 🌱 Building impactful projects like **Eco Smart Bin & AgriSathi**
+- 🏆 National Finalist – **5G/6G Hackathon (Top 90/4000+)**
+- 🥇 Finalist – **Smart India Hackathon 2024 (Top 10/80+ Teams)**
 
 ---
 

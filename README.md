@@ -10,7 +10,7 @@
 - 🎓 **B.Tech CSE (Data Science) Student**
 - 💻 Passionate about **Web Development, Machine Learning, and Backend Systems**
 - 🚀 Love building **real-world projects** with modern technologies
-- 🧠 Skilled in **Python, JavaScript, ML, and Full-Stack Development**
+- 🧠 Skilled in **Python, ML, and Full-Stack Development**
 - 📫 Email: **lobsangshakya5@gmail.com**
 
 ---

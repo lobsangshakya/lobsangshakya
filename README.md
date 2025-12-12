@@ -45,7 +45,7 @@
 ## ✨ Highlights
 
 - 🧠 Skilled in **Machine Learning, Full-Stack Development, and Data Science**
-- 🔧 Experience with **React, Django, Node.js, Express, Kafka**
+- 🔧 Experience with **Python, React, Django, Node.js, Kafka**
 - 🌱 Building impactful projects like **Eco Smart Bin & AgriSathi**
 - 🏆 National Finalist – **5G/6G Hackathon (Top 90/4000+)**
 - 🥇 Finalist – **Smart India Hackathon 2024 (Top 10/80+ Teams)**

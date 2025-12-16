@@ -1,6 +1,22 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Lobsang+Tsetan+Shakya;B.Tech+in+CSE+(Data+Science);Web+Developer+%7C+Python+Developer;ML+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Lobsang+Tsetan+Shakya;B.Tech+in+CSE+(Data+Science);Web+Developer+%7C+Python+Developer;ML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG Banner"/>
+</p>
+
+---
+
+## ⚒️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,pandas,numpy,git&theme=light" alt="Skills Icons"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=lobsangshakya5&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -15,43 +31,23 @@
 
 ---
 
-## ⚒️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,git&theme=light" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya5&show_icons=true&theme=react&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobsangshakya5&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lobsang-shakya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@lobsangshakya5" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://leetcode.com/lobsangshakya5" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/lobsangshakya5" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://github.com/lobsangshakya5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 

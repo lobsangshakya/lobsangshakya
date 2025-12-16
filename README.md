@@ -1,6 +1,5 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Lobsang+Tsetan+Shakya;B.Tech+in+CSE+(Data+Science);Web+Developer+%7C+Python+Developer;ML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Lobsang+Tsetan+Shakya;B.Tech+in+CSE+(Data+Science);Software+Engineer%7C+Full-Stack+Developer;National+Hackathon+Finalist" alt="Typing SVG Banner"/>
 </p>
 
 ---
@@ -8,7 +7,7 @@
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,pandas,numpy,git&theme=light" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,git&theme=light" alt="Skills Icons"/>
 </p>
 
 ---

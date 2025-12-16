@@ -23,6 +23,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lobsangshakya5&show_icons=true&theme=react&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobsangshakya5&theme=react&hide_border=true" />
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -37,6 +49,9 @@
   </a>
   <a href="https://www.hackerrank.com/lobsangshakya5" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lobsangshakya5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 

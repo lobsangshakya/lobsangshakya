@@ -13,14 +13,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=lobsangshakya5&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE (Data Science) Student**

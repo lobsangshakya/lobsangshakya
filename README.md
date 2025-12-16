@@ -37,7 +37,7 @@
   <a href="https://www.hackerrank.com/lobsangshakya5" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://github.com/lobsangshakya5" target="_blank">
+  <a href="https://github.com/lobsangshakya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>

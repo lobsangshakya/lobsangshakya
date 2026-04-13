@@ -7,7 +7,7 @@
 ## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,docker,git&theme=light" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,django,kafka,mysql,docker,git,postman&theme=light" alt="Skills Icons"/>
 </p>
 
 ---
